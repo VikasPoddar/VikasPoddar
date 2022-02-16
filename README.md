@@ -1,4 +1,5 @@
-### Hi there 👋
+### Vikas Poddar
+# hello, this is my GItHub repository and here I share my projects which i am currenty woring on.
 
 <!--
 **VikasPoddar/VikasPoddar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
