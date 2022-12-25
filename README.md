@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VikasPoddar
+- 👋 Hi, I’m VikasPoddar
 - 👀 I’m interested in Machine Learning and Robotics
 - 🌱 I’m currently learning FastAPI
 
