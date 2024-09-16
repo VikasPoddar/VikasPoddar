@@ -1,5 +1,4 @@
-- 👋 Hi, I’m VikasPoddar
-- 👀 I’m interested in Machine Learning and Software Development
+👋 Hi, I’m Vikas Poddar
 
 
 <!---
